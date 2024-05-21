@@ -127,7 +127,7 @@ header nav ul li a:hover {
   border-radius: 10px;
 }
 
-.product button {
+.button {
   background-color: #ff6347;
   color: #fff;
   border: none;
@@ -137,7 +137,7 @@ header nav ul li a:hover {
   transition: background-color 0.3s;
 }
 
-.product button:hover {
+.button:hover {
   background-color: #333;
 }
 
@@ -162,7 +162,7 @@ header nav ul li a:hover {
 
 .deal img {
   width: 100%;
-  height: auto;
+  height: 350px;
   border-radius: 10px;
 }
 
